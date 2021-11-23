@@ -13,9 +13,12 @@ i have changed aria.sh file to support it on heroku.
 ## Deploying on Heroku
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks click [here](https://github.com/ayushteke/python_aria_mirror_bot_HEROKU#getting-google-oauth-api-credential-file) for more details
 
+# Tutorials web telegram
+[Tutoriales telegram bot google drive](https://uniq.edu.mx/telegram)
 
 after this click on the below button 👇👇👇👇
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cinedriveonline/torrentdrivebot)
 
 ## Features supported:
 <details>
